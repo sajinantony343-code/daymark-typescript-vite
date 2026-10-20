@@ -1,6 +1,3 @@
-# Daymark
-
-A lightweight task planner built with vanilla TypeScript and Vite. Add tasks, set priorities, filter your list, and keep your progress in one calm place.
 
 ## Requirements
 
